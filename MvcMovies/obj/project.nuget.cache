@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r+CYnD7NO/IKxMk4idu/hAt28GA8u7zVKiCC3iwKleFyn4jp4SR1WtMjuGDJqlLCF6jtm1DuH4PUhHW2Yv083g==",
+  "dgSpecHash": "TDex5a0ANIeaHdOl5TqyEM85VgXacVJhLC00sDnq319F/bykMoWOq9FvhQJpuCDpVnR0fV62gTZYS4Hc6P3o6g==",
   "success": true,
-  "projectFilePath": "/Users/maheye/Documents/BYU-Idaho/MvcMovie/MvcMovie.csproj",
+  "projectFilePath": "/Users/maheye/Documents/BYU-Idaho/CSE 325/MvcMovies/MvcMovie.csproj",
   "expectedPackageFiles": [
     "/Users/maheye/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/maheye/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

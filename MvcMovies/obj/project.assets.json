@@ -8160,11 +8160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maheye/Documents/BYU-Idaho/MvcMovie/MvcMovie.csproj",
+      "projectUniqueName": "/Users/maheye/Documents/BYU-Idaho/CSE 325/MvcMovies/MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/Users/maheye/Documents/BYU-Idaho/MvcMovie/MvcMovie.csproj",
+      "projectPath": "/Users/maheye/Documents/BYU-Idaho/CSE 325/MvcMovies/MvcMovie.csproj",
       "packagesPath": "/Users/maheye/.nuget/packages/",
-      "outputPath": "/Users/maheye/Documents/BYU-Idaho/MvcMovie/obj/",
+      "outputPath": "/Users/maheye/Documents/BYU-Idaho/CSE 325/MvcMovies/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/maheye/.nuget/NuGet/NuGet.Config"
